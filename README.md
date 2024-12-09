@@ -18,7 +18,7 @@ In this project the I:
   3. To obtain a temperature summary variable for each municipality in Mainland Portugal, I used a municipality ```shapefile``` to be defining border region. Each datapoint that is contained in a municipality polygon contributes to the average temperature computed for that polygon. I created my own code just for this purpose.
   4. Performed some EDA and map representions.
 
-![Average Temperature on August 15th 2018 across Mainland Portugal](relative/path/in/repository/to/image.svg)
+![Average Temperature on August 15th 2018 across Mainland Portugal](https://github.com/andrebrito0/climate_data_store/blob/main/mean%20temperature.png)
 
 
  
